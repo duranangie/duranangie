@@ -5,7 +5,7 @@
 ### **I'm Angie Duran** I study systems engineering
 
 
-things about me
+things about me 
 
 - 🔭 I’m currently study on Campusland
 - 🌱 I’m currently learning react native
