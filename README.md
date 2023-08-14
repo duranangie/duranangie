@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Campusland
+- 🔭 I’m currently study on Campusland
 - 🌱 I’m currently learning react native
 - 👯 I’m looking to collaborate on html,css y javascript
 - 💬 Ask me about html , css y javascript
