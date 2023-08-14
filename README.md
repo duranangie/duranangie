@@ -2,6 +2,8 @@
 
 
 **duranangie/duranangie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Angie Duran** I study systems engineering
+
 
 Here are some ideas to get you started:
 
