@@ -1,31 +1,32 @@
-# Hi, I'm Angie Duran! 👋
----
+<h2 align="left">Hi 👋! My name is Angie Duran and I'm a backend developer
+, from Colombia</h2>
 
+###
 
-## Languages and Tools
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duranangie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph%22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<table>
-  <tr>
-    <td><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Logo" width="50" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="Logo" width="50" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" alt="React Logo" width="40" /></td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="Logo" width="40" /></td>
-    <td><img src="https://qph.cf2.quoracdn.net/main-qimg-c43424186b9c089b9aa1d64c7f1989c1" alt="Logo" width="40" /></td>
-    <td><img src= "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Logo" width="40" /> </td>
-    <td><img src= "https://www.shareicon.net/download/2016/08/01/639868_development.ico" alt="Logo" width="40" /> </td>
-    <td><img src= "https://icons.veryicon.com/png/System/Hex/css%203.png" alt="Logo" width="40" /> </td>
+###
 
-  </tr>
-</table>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="csharp logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+    <img width="12" />
 
----
-
-
-
-
-
-
-
-
-
-
+</div>
